@@ -17,12 +17,6 @@ This project is built to show how to use [Riverpod](https://pub.dev/packages/flu
 ![Screenshot 2023-07-22 031525](https://github.com/BOSSHK-SPEC/Flutter-Movie-App/assets/84731518/495fc375-64f0-4418-8aa5-25ebb50dad79)
 
 
-
-## Pull Requests
-
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
-
-
 ## Created & Maintained By
 
 Yashwanth H K
