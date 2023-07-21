@@ -2,11 +2,11 @@
 
 A simple yet sufficient flutter application to fetch:
 
-Popular Movies
-Latest Movies
-Top Rated Movies
-Now Playing Movies
-Upcoming Movies using api from themoviedb.org
+Popular Movies<br />
+Latest Movies<br />
+Top Rated Movies<br />
+Now Playing Movies<br />
+Upcoming Movies using api from themoviedb.org<br />
 
 ## Why This Project
 
